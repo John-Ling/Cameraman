@@ -1,6 +1,10 @@
 # Your own personal cameraman #
 A webcam that tracks and follows your face in the room. Powered by OpenCV and microcontrollers.
 
+
+https://user-images.githubusercontent.com/100111224/165949008-5640b943-f781-46d1-9660-30f3ad849b28.mp4
+
+
 ## Background ##
 I'm a student at the moment whose school does hybrid teaching meaning students are both in-person and online. However, many of my teachers would forget about their online students and continue teaching without adjusting their computers to their position. Online students would have to ask them to move the camera, interrupting the lesson. To make hybrid education more seamless, I designed and programmed a "Personal Cameraman" that would follow a teacher as they moved around the classroom.
 
