@@ -5,7 +5,6 @@ import imutils
 import cv2
 import serial
 import time
-import os
 
 class Face_Tracker:
     def __init__(self, baudrate, timeout, port, serialEnabled):
